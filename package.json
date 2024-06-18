@@ -11,7 +11,6 @@
     "checkout-sdk-node": "^1.0.12",
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "ngrok": "^3.2.5",
     "nodemon": "^1.19.4",
     "socket.io": "^2.3.0"
   },
